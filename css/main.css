@@ -1,3 +1,9 @@
+.dark {
+  background-color:
+    #1F2E35;
+  color: #FFFFFF;
+}
+
 html {
   height: 100%;
   scroll-behavior: smooth;
@@ -1380,6 +1386,11 @@ SITE-MENU */ .site-menu__box {
 
 /* section5 */
 
+.dark .contents{
+  background-color: 
+  #1F2E35;
+}
+
 .contents {
   background-color: #f6f6f6;
 }
@@ -1564,6 +1575,11 @@ SITE-MENU */ .site-menu__box {
 }
 
 /* section6 */
+
+.dark .table{
+  background-color: 
+  #1F2E35;
+}
 
 .table {
   background-color: #f6f6f6;
@@ -1862,6 +1878,11 @@ SITE-MENU */ .site-menu__box {
 
 /* section7 */
 
+.dark .Clients{
+  background-color:
+    #1F2E35;
+}
+
 .Clients {
   background-color: #f6f6f6;
   padding-bottom: 157px;
@@ -1993,6 +2014,11 @@ SITE-MENU */ .site-menu__box {
 
 /* section8 */
 
+.dark .proect{
+  background-color:
+    #1F2E35;
+}
+
 .proect {
   border-color: #f6f6f6;
 }
@@ -2105,6 +2131,11 @@ SITE-MENU */ .site-menu__box {
 }
 
 /* footer */
+
+.dark .site-footer{
+  background-color:
+    #1F2E35;
+}
 
 .site-footer {
   background-color: #f6f6f6;
@@ -2322,6 +2353,11 @@ SITE-MENU */ .site-menu__box {
 
 /* section10 */
 
+.dark .sitting{
+  background-color:
+    #1F2E35;
+}
+
 .sitting {
   padding-top: 200px;
   background-color: #f6f6f6;
@@ -2447,6 +2483,11 @@ SITE-MENU */ .site-menu__box {
 }
 
 /* section11 */
+
+.dark .question{
+  background-color:
+    #1F2E35;
+}
 
 .question {
   background-color: #f6f6f6;
@@ -2801,6 +2842,10 @@ SITE-MENU */ .site-menu__box {
 
 /* section16 */
 
+.dark .offers{
+  background-color:
+    #1F2E35;
+}
 
 .offers {
   margin-bottom: 130px;
@@ -2985,7 +3030,7 @@ SITE-MENU */ .site-menu__box {
   transition: all .4s ease;
 }
 
-.great-business__btn:hover{
+.great-business__btn:hover {
   background-color: #fff;
   color: #02897A;
   border: 2px solid #02897A;
@@ -3289,7 +3334,7 @@ SITE-MENU */ .site-menu__box {
     border-radius: 20px;
   }
 
-  .message__title{
+  .message__title {
     margin-bottom: 45px;
   }
 }
